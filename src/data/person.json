@@ -1,0 +1,1024 @@
+[
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Kamui.png",
+    "name": "神威",
+    "growth": {
+      "hp": "45",
+      "strength": "45",
+      "magic": "30",
+      "skill": "40",
+      "speed": "45",
+      "luck": "45",
+      "defense": "35",
+      "mdf": "25"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Felicia.png",
+    "name": "菲利西亚",
+    "growth": {
+      "hp": "40",
+      "strength": "10",
+      "magic": "35",
+      "skill": "30",
+      "speed": "40",
+      "luck": "55",
+      "defense": "15",
+      "mdf": "35"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Joker.png",
+    "name": "乔克",
+    "growth": {
+      "hp": "50",
+      "strength": "30",
+      "magic": "15",
+      "skill": "40",
+      "speed": "35",
+      "luck": "45",
+      "defense": "25",
+      "mdf": "25"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Suzukaze.png",
+    "name": "凉风",
+    "growth": {
+      "hp": "55",
+      "strength": "40",
+      "magic": "0",
+      "skill": "45",
+      "speed": "65",
+      "luck": "20",
+      "defense": "20",
+      "mdf": "35"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Aqua.png",
+    "name": "阿库娅",
+    "growth": {
+      "hp": "25",
+      "strength": "50",
+      "magic": "25",
+      "skill": "60",
+      "speed": "60",
+      "luck": "40",
+      "defense": "15",
+      "mdf": "35"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Silas.png",
+    "name": "塞拉斯",
+    "growth": {
+      "hp": "40",
+      "strength": "45",
+      "magic": "5",
+      "skill": "50",
+      "speed": "40",
+      "luck": "40",
+      "defense": "40",
+      "mdf": "25"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Mozume.png",
+    "name": "物集",
+    "growth": {
+      "hp": "30",
+      "strength": "40",
+      "magic": "5",
+      "skill": "50",
+      "speed": "55",
+      "luck": "45",
+      "defense": "35",
+      "mdf": "30"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Sakura.png",
+    "name": "樱",
+    "growth": {
+      "hp": "45",
+      "strength": "30",
+      "magic": "50",
+      "skill": "40",
+      "speed": "40",
+      "luck": "55",
+      "defense": "30",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Rinka.png",
+    "name": "燐火",
+    "growth": {
+      "hp": "20",
+      "strength": "25",
+      "magic": "15",
+      "skill": "50",
+      "speed": "45",
+      "luck": "35",
+      "defense": "45",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Kazahana.png",
+    "name": "风花",
+    "growth": {
+      "hp": "25",
+      "strength": "55",
+      "magic": "10",
+      "skill": "45",
+      "speed": "55",
+      "luck": "25",
+      "defense": "20",
+      "mdf": "30"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Tsubaki.png",
+    "name": "椿",
+    "growth": {
+      "hp": "55",
+      "strength": "30",
+      "magic": "20",
+      "skill": "50",
+      "speed": "20",
+      "luck": "25",
+      "defense": "45",
+      "mdf": "5"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Saizou.png",
+    "name": "才藏",
+    "growth": {
+      "hp": "40",
+      "strength": "50",
+      "magic": "45",
+      "skill": "60",
+      "speed": "30",
+      "luck": "55",
+      "defense": "45",
+      "mdf": "10"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Orochi.png",
+    "name": "远吕智",
+    "growth": {
+      "hp": "35",
+      "strength": "5",
+      "magic": "65",
+      "skill": "50",
+      "speed": "15",
+      "luck": "35",
+      "defense": "25",
+      "mdf": "45"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Hinoka.png",
+    "name": "日乃香",
+    "growth": {
+      "hp": "45",
+      "strength": "45",
+      "magic": "15",
+      "skill": "40",
+      "speed": "45",
+      "luck": "40",
+      "defense": "35",
+      "mdf": "40"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Asama.png",
+    "name": "浅间",
+    "growth": {
+      "hp": "55",
+      "strength": "50",
+      "magic": "20",
+      "skill": "40",
+      "speed": "45",
+      "luck": "40",
+      "defense": "40",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Setsuna.png",
+    "name": "刹那",
+    "growth": {
+      "hp": "30",
+      "strength": "20",
+      "magic": "0",
+      "skill": "30",
+      "speed": "60",
+      "luck": "30",
+      "defense": "15",
+      "mdf": "40"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Tsukuyomi.png",
+    "name": "月读",
+    "growth": {
+      "hp": "50",
+      "strength": "30",
+      "magic": "40",
+      "skill": "30",
+      "speed": "45",
+      "luck": "60",
+      "defense": "40",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Oboro.png",
+    "name": "胧",
+    "growth": {
+      "hp": "30",
+      "strength": "40",
+      "magic": "20",
+      "skill": "40",
+      "speed": "40",
+      "luck": "40",
+      "defense": "40",
+      "mdf": "30"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Hinata.png",
+    "name": "日向",
+    "growth": {
+      "hp": "55",
+      "strength": "35",
+      "magic": "0",
+      "skill": "25",
+      "speed": "15",
+      "luck": "45",
+      "defense": "45",
+      "mdf": "15"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Takumi.png",
+    "name": "拓海",
+    "growth": {
+      "hp": "50",
+      "strength": "35",
+      "magic": "0",
+      "skill": "60",
+      "speed": "40",
+      "luck": "45",
+      "defense": "35",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Kagerou.png",
+    "name": "阳炎",
+    "growth": {
+      "hp": "30",
+      "strength": "65",
+      "magic": "0",
+      "skill": "20",
+      "speed": "50",
+      "luck": "30",
+      "defense": "25",
+      "mdf": "40"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Nishiki.png",
+    "name": "锦",
+    "growth": {
+      "hp": "45",
+      "strength": "40",
+      "magic": "10",
+      "skill": "25",
+      "speed": "45",
+      "luck": "50",
+      "defense": "35",
+      "mdf": "40"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Ryouma.png",
+    "name": "龙马",
+    "growth": {
+      "hp": "50",
+      "strength": "45",
+      "magic": "0",
+      "skill": "50",
+      "speed": "45",
+      "luck": "40",
+      "defense": "35",
+      "mdf": "25"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Elise.png",
+    "name": "爱丽丝",
+    "growth": {
+      "hp": "30",
+      "strength": "5",
+      "magic": "65",
+      "skill": "25",
+      "speed": "55",
+      "luck": "70",
+      "defense": "15",
+      "mdf": "40"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Harold.png",
+    "name": "哈罗德",
+    "growth": {
+      "hp": "50",
+      "strength": "45",
+      "magic": "0",
+      "skill": "55",
+      "speed": "35",
+      "luck": "5",
+      "defense": "45",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Elfie.png",
+    "name": "艾尔菲",
+    "growth": {
+      "hp": "35",
+      "strength": "60",
+      "magic": "0",
+      "skill": "35",
+      "speed": "50",
+      "luck": "50",
+      "defense": "35",
+      "mdf": "30"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Odin.png",
+    "name": "奥丁",
+    "growth": {
+      "hp": "55",
+      "strength": "35",
+      "magic": "30",
+      "skill": "55",
+      "speed": "35",
+      "luck": "60",
+      "defense": "40",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Zero.png",
+    "name": "零",
+    "growth": {
+      "hp": "40",
+      "strength": "35",
+      "magic": "20",
+      "skill": "40",
+      "speed": "50",
+      "luck": "30",
+      "defense": "30",
+      "mdf": "40"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Nyx.png",
+    "name": "妮克丝",
+    "growth": {
+      "hp": "30",
+      "strength": "5",
+      "magic": "50",
+      "skill": "35",
+      "speed": "50",
+      "luck": "20",
+      "defense": "15",
+      "mdf": "30"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Camilla.png",
+    "name": "卡米拉",
+    "growth": {
+      "hp": "40",
+      "strength": "50",
+      "magic": "25",
+      "skill": "50",
+      "speed": "55",
+      "luck": "25",
+      "defense": "35",
+      "mdf": "45"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Luna.png",
+    "name": "露娜",
+    "growth": {
+      "hp": "40",
+      "strength": "30",
+      "magic": "5",
+      "skill": "25",
+      "speed": "45",
+      "luck": "30",
+      "defense": "45",
+      "mdf": "30"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Belka.png",
+    "name": "贝尔卡",
+    "growth": {
+      "hp": "45",
+      "strength": "30",
+      "magic": "10",
+      "skill": "55",
+      "speed": "30",
+      "luck": "45",
+      "defense": "40",
+      "mdf": "25"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Lazward.png",
+    "name": "拉兹沃德",
+    "growth": {
+      "hp": "50",
+      "strength": "45",
+      "magic": "0",
+      "skill": "45",
+      "speed": "30",
+      "luck": "55",
+      "defense": "35",
+      "mdf": "25"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Pieri.png",
+    "name": "皮艾莉",
+    "growth": {
+      "hp": "30",
+      "strength": "50",
+      "magic": "5",
+      "skill": "30",
+      "speed": "50",
+      "luck": "35",
+      "defense": "25",
+      "mdf": "45"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Benoit.png",
+    "name": "贝诺特",
+    "growth": {
+      "hp": "50",
+      "strength": "40",
+      "magic": "0",
+      "skill": "50",
+      "speed": "10",
+      "luck": "35",
+      "defense": "55",
+      "mdf": "45"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Charlotte.png",
+    "name": "夏洛特",
+    "growth": {
+      "hp": "65",
+      "strength": "55",
+      "magic": "0",
+      "skill": "35",
+      "speed": "50",
+      "luck": "45",
+      "defense": "20",
+      "mdf": "5"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Leon.png",
+    "name": "利昂",
+    "growth": {
+      "hp": "45",
+      "strength": "25",
+      "magic": "55",
+      "skill": "35",
+      "speed": "45",
+      "luck": "45",
+      "defense": "30",
+      "mdf": "45"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Flannel.png",
+    "name": "弗拉内尔",
+    "growth": {
+      "hp": "60",
+      "strength": "60",
+      "magic": "0",
+      "skill": "20",
+      "speed": "35",
+      "luck": "30",
+      "defense": "50",
+      "mdf": "25"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Marx.png",
+    "name": "马克斯",
+    "growth": {
+      "hp": "45",
+      "strength": "50",
+      "magic": "5",
+      "skill": "40",
+      "speed": "35",
+      "luck": "60",
+      "defense": "40",
+      "mdf": "15"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Kanna.png",
+    "name": "神奈",
+    "growth": {
+      "hp": "30",
+      "strength": "35",
+      "magic": "30",
+      "skill": "40",
+      "speed": "45",
+      "luck": "45",
+      "defense": "25",
+      "mdf": "25"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Shigure.png",
+    "name": "时雨",
+    "growth": {
+      "hp": "35",
+      "strength": "45",
+      "magic": "5",
+      "skill": "45",
+      "speed": "35",
+      "luck": "25",
+      "defense": "35",
+      "mdf": "25"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Deere.png",
+    "name": "迪尔",
+    "growth": {
+      "hp": "45",
+      "strength": "45",
+      "magic": "30",
+      "skill": "20",
+      "speed": "30",
+      "luck": "30",
+      "defense": "30",
+      "mdf": "35"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Sophie.png",
+    "name": "索菲",
+    "growth": {
+      "hp": "35",
+      "strength": "35",
+      "magic": "10",
+      "skill": "55",
+      "speed": "50",
+      "luck": "35",
+      "defense": "25",
+      "mdf": "35"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Midoriko.png",
+    "name": "绿子",
+    "growth": {
+      "hp": "45",
+      "strength": "35",
+      "magic": "5",
+      "skill": "55",
+      "speed": "35",
+      "luck": "50",
+      "defense": "30",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Shinonome.png",
+    "name": "东云",
+    "growth": {
+      "hp": "50",
+      "strength": "50",
+      "magic": "0",
+      "skill": "40",
+      "speed": "35",
+      "luck": "35",
+      "defense": "45",
+      "mdf": "30"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Kisaragi.png",
+    "name": "如月",
+    "growth": {
+      "hp": "45",
+      "strength": "40",
+      "magic": "0",
+      "skill": "45",
+      "speed": "50",
+      "luck": "45",
+      "defense": "40",
+      "mdf": "15"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Grey.png",
+    "name": "暮井",
+    "growth": {
+      "hp": "40",
+      "strength": "45",
+      "magic": "50",
+      "skill": "55",
+      "speed": "45",
+      "luck": "50",
+      "defense": "30",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Kinu.png",
+    "name": "绢",
+    "growth": {
+      "hp": "35",
+      "strength": "30",
+      "magic": "15",
+      "skill": "35",
+      "speed": "55",
+      "luck": "60",
+      "defense": "30",
+      "mdf": "50"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Hisame.png",
+    "name": "冰雨",
+    "growth": {
+      "hp": "50",
+      "strength": "40",
+      "magic": "0",
+      "skill": "40",
+      "speed": "40",
+      "luck": "25",
+      "defense": "30",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Mitama.png",
+    "name": "御灵",
+    "growth": {
+      "hp": "45",
+      "strength": "40",
+      "magic": "35",
+      "skill": "45",
+      "speed": "50",
+      "luck": "50",
+      "defense": "30",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Matoi.png",
+    "name": "缠",
+    "growth": {
+      "hp": "55",
+      "strength": "35",
+      "magic": "15",
+      "skill": "40",
+      "speed": "40",
+      "luck": "45",
+      "defense": "35",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Shara.png",
+    "name": "沙罗",
+    "growth": {
+      "hp": "40",
+      "strength": "15",
+      "magic": "60",
+      "skill": "10",
+      "speed": "50",
+      "luck": "30",
+      "defense": "25",
+      "mdf": "35"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Siegbert.png",
+    "name": "齐格贝特",
+    "growth": {
+      "hp": "40",
+      "strength": "45",
+      "magic": "5",
+      "skill": "45",
+      "speed": "45",
+      "luck": "45",
+      "defense": "35",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Foleo.png",
+    "name": "弗利欧",
+    "growth": {
+      "hp": "55",
+      "strength": "15",
+      "magic": "65",
+      "skill": "20",
+      "speed": "35",
+      "luck": "25",
+      "defense": "25",
+      "mdf": "55"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Ignis.png",
+    "name": "伊格尼斯",
+    "growth": {
+      "hp": "40",
+      "strength": "50",
+      "magic": "0",
+      "skill": "40",
+      "speed": "30",
+      "luck": "55",
+      "defense": "45",
+      "mdf": "35"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Velour.png",
+    "name": "维露娅",
+    "growth": {
+      "hp": "50",
+      "strength": "50",
+      "magic": "0",
+      "skill": "40",
+      "speed": "40",
+      "luck": "35",
+      "defense": "45",
+      "mdf": "30"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Lutz.png",
+    "name": "露兹",
+    "growth": {
+      "hp": "30",
+      "strength": "30",
+      "magic": "5",
+      "skill": "45",
+      "speed": "40",
+      "luck": "75",
+      "defense": "55",
+      "mdf": "15"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Ophelia.png",
+    "name": "奥菲利娅",
+    "growth": {
+      "hp": "45",
+      "strength": "15",
+      "magic": "45",
+      "skill": "40",
+      "speed": "45",
+      "luck": "65",
+      "defense": "20",
+      "mdf": "30"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Soleil.png",
+    "name": "索莱尔",
+    "growth": {
+      "hp": "25",
+      "strength": "60",
+      "magic": "0",
+      "skill": "35",
+      "speed": "35",
+      "luck": "45",
+      "defense": "35",
+      "mdf": "40"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Eponine.png",
+    "name": "艾潘妮",
+    "growth": {
+      "hp": "30",
+      "strength": "45",
+      "magic": "30",
+      "skill": "35",
+      "speed": "40",
+      "luck": "50",
+      "defense": "25",
+      "mdf": "45"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Gunter.png",
+    "name": "甘特",
+    "growth": {
+      "hp": "15",
+      "strength": "5",
+      "magic": "0",
+      "skill": "5",
+      "speed": "0",
+      "luck": "15",
+      "defense": "5",
+      "mdf": "5"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Ashura.png",
+    "name": "阿修罗",
+    "growth": {
+      "hp": "30",
+      "strength": "25",
+      "magic": "10",
+      "skill": "20",
+      "speed": "35",
+      "luck": "30",
+      "defense": "15",
+      "mdf": "35"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Izana.png",
+    "name": "伊邪那",
+    "growth": {
+      "hp": "45",
+      "strength": "15",
+      "magic": "35",
+      "skill": "55",
+      "speed": "30",
+      "luck": "45",
+      "defense": "35",
+      "mdf": "35"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Yuugiri.png",
+    "name": "夕雾",
+    "growth": {
+      "hp": "40",
+      "strength": "45",
+      "magic": "5",
+      "skill": "20",
+      "speed": "45",
+      "luck": "10",
+      "defense": "20",
+      "mdf": "10"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Yukimura.png",
+    "name": "幸村",
+    "growth": {
+      "hp": "25",
+      "strength": "25",
+      "magic": "5",
+      "skill": "40",
+      "speed": "15",
+      "luck": "30",
+      "defense": "25",
+      "mdf": "30"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Crimson.png",
+    "name": "克莉莫森",
+    "growth": {
+      "hp": "30",
+      "strength": "45",
+      "magic": "20",
+      "skill": "40",
+      "speed": "50",
+      "luck": "40",
+      "defense": "25",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Flora.png",
+    "name": "芙洛拉",
+    "growth": {
+      "hp": "35",
+      "strength": "40",
+      "magic": "20",
+      "skill": "45",
+      "speed": "30",
+      "luck": "35",
+      "defense": "30",
+      "mdf": "30"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Fuuga.png",
+    "name": "风雅",
+    "growth": {
+      "hp": "20",
+      "strength": "20",
+      "magic": "0",
+      "skill": "15",
+      "speed": "5",
+      "luck": "20",
+      "defense": "10",
+      "mdf": "10"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Anna.png",
+    "name": "安娜",
+    "growth": {
+      "hp": "35",
+      "strength": "30",
+      "magic": "55",
+      "skill": "30",
+      "speed": "40",
+      "luck": "70",
+      "defense": "20",
+      "mdf": "45"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Marth.png",
+    "name": "马尔斯",
+    "growth": {
+      "hp": "45",
+      "strength": "30",
+      "magic": "5",
+      "skill": "50",
+      "speed": "55",
+      "luck": "60",
+      "defense": "35",
+      "mdf": "20"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Ike.png",
+    "name": "艾克",
+    "growth": {
+      "hp": "50",
+      "strength": "45",
+      "magic": "0",
+      "skill": "40",
+      "speed": "35",
+      "luck": "45",
+      "defense": "40",
+      "mdf": "10"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Lucina.png",
+    "name": "露茜娜",
+    "growth": {
+      "hp": "40",
+      "strength": "35",
+      "magic": "5",
+      "skill": "45",
+      "speed": "50",
+      "luck": "50",
+      "defense": "25",
+      "mdf": "35"
+    }
+  },
+  {
+    "avatar": "http://fcfantasy.cn/fe2015/image/portrait100/Rufure.png",
+    "name": "露弗莱",
+    "growth": {
+      "hp": "35",
+      "strength": "30",
+      "magic": "40",
+      "skill": "45",
+      "speed": "30",
+      "luck": "25",
+      "defense": "25",
+      "mdf": "40"
+    }
+  }
+]

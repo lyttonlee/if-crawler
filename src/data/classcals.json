@@ -1,0 +1,847 @@
+[
+  {
+    "name": "黑暗王子",
+    "growth": {
+      "hp": "15",
+      "strength": "15",
+      "magic": "10",
+      "skill": "10",
+      "speed": "10",
+      "luck": "10",
+      "defense": "10",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "黑暗公主",
+    "growth": {
+      "hp": "15",
+      "strength": "15",
+      "magic": "10",
+      "skill": "10",
+      "speed": "10",
+      "luck": "10",
+      "defense": "10",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "暗夜血族",
+    "growth": {
+      "hp": "15",
+      "strength": "10",
+      "magic": "15",
+      "skill": "5",
+      "speed": "15",
+      "luck": "5",
+      "defense": "5",
+      "mdf": "15"
+    }
+  },
+  {
+    "name": "白夜血族",
+    "growth": {
+      "hp": "15",
+      "strength": "15",
+      "magic": "10",
+      "skill": "10",
+      "speed": "10",
+      "luck": "10",
+      "defense": "15",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "歌姬",
+    "growth": {
+      "hp": "0",
+      "strength": "10",
+      "magic": "0",
+      "skill": "20",
+      "speed": "20",
+      "luck": "20",
+      "defense": "0",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "轻骑士",
+    "growth": {
+      "hp": "10",
+      "strength": "15",
+      "magic": "0",
+      "skill": "10",
+      "speed": "10",
+      "luck": "15",
+      "defense": "10",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "圣骑士",
+    "growth": {
+      "hp": "10",
+      "strength": "15",
+      "magic": "0",
+      "skill": "10",
+      "speed": "10",
+      "luck": "15",
+      "defense": "10",
+      "mdf": "10"
+    }
+  },
+  {
+    "name": "重甲骑士",
+    "growth": {
+      "hp": "20",
+      "strength": "20",
+      "magic": "0",
+      "skill": "15",
+      "speed": "5",
+      "luck": "10",
+      "defense": "20",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "将军",
+    "growth": {
+      "hp": "25",
+      "strength": "20",
+      "magic": "0",
+      "skill": "15",
+      "speed": "0",
+      "luck": "10",
+      "defense": "20",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "重骑士",
+    "growth": {
+      "hp": "20",
+      "strength": "20",
+      "magic": "0",
+      "skill": "10",
+      "speed": "5",
+      "luck": "5",
+      "defense": "20",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "斧战士",
+    "growth": {
+      "hp": "20",
+      "strength": "20",
+      "magic": "0",
+      "skill": "15",
+      "speed": "15",
+      "luck": "5",
+      "defense": "5",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "狂战士",
+    "growth": {
+      "hp": "30",
+      "strength": "25",
+      "magic": "0",
+      "skill": "15",
+      "speed": "15",
+      "luck": "0",
+      "defense": "0",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "佣兵",
+    "growth": {
+      "hp": "10",
+      "strength": "15",
+      "magic": "0",
+      "skill": "20",
+      "speed": "15",
+      "luck": "5",
+      "defense": "10",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "勇者",
+    "growth": {
+      "hp": "20",
+      "strength": "15",
+      "magic": "0",
+      "skill": "20",
+      "speed": "15",
+      "luck": "5",
+      "defense": "10",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "盗贼",
+    "growth": {
+      "hp": "0",
+      "strength": "10",
+      "magic": "5",
+      "skill": "10",
+      "speed": "20",
+      "luck": "0",
+      "defense": "0",
+      "mdf": "20"
+    }
+  },
+  {
+    "name": "弓骑士",
+    "growth": {
+      "hp": "10",
+      "strength": "10",
+      "magic": "0",
+      "skill": "15",
+      "speed": "15",
+      "luck": "10",
+      "defense": "0",
+      "mdf": "10"
+    }
+  },
+  {
+    "name": "冒险家",
+    "growth": {
+      "hp": "0",
+      "strength": "5",
+      "magic": "15",
+      "skill": "5",
+      "speed": "20",
+      "luck": "0",
+      "defense": "0",
+      "mdf": "20"
+    }
+  },
+  {
+    "name": "龙骑士",
+    "growth": {
+      "hp": "10",
+      "strength": "15",
+      "magic": "5",
+      "skill": "10",
+      "speed": "10",
+      "luck": "5",
+      "defense": "20",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "龙骑统帅",
+    "growth": {
+      "hp": "10",
+      "strength": "15",
+      "magic": "0",
+      "skill": "15",
+      "speed": "10",
+      "luck": "5",
+      "defense": "20",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "魔龙骑士",
+    "growth": {
+      "hp": "0",
+      "strength": "15",
+      "magic": "15",
+      "skill": "10",
+      "speed": "5",
+      "luck": "0",
+      "defense": "10",
+      "mdf": "15"
+    }
+  },
+  {
+    "name": "暗魔法师",
+    "growth": {
+      "hp": "0",
+      "strength": "10",
+      "magic": "20",
+      "skill": "0",
+      "speed": "10",
+      "luck": "0",
+      "defense": "5",
+      "mdf": "10"
+    }
+  },
+  {
+    "name": "巫师",
+    "growth": {
+      "hp": "0",
+      "strength": "0",
+      "magic": "25",
+      "skill": "0",
+      "speed": "10",
+      "luck": "0",
+      "defense": "5",
+      "mdf": "15"
+    }
+  },
+  {
+    "name": "黑暗骑士",
+    "growth": {
+      "hp": "15",
+      "strength": "20",
+      "magic": "10",
+      "skill": "5",
+      "speed": "5",
+      "luck": "5",
+      "defense": "15",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "杖骑士",
+    "growth": {
+      "hp": "0",
+      "strength": "0",
+      "magic": "10",
+      "skill": "20",
+      "speed": "10",
+      "luck": "15",
+      "defense": "0",
+      "mdf": "15"
+    }
+  },
+  {
+    "name": "战术师",
+    "growth": {
+      "hp": "0",
+      "strength": "0",
+      "magic": "15",
+      "skill": "5",
+      "speed": "10",
+      "luck": "20",
+      "defense": "0",
+      "mdf": "15"
+    }
+  },
+  {
+    "name": "管家",
+    "growth": {
+      "hp": "0",
+      "strength": "10",
+      "magic": "10",
+      "skill": "15",
+      "speed": "15",
+      "luck": "10",
+      "defense": "5",
+      "mdf": "10"
+    }
+  },
+  {
+    "name": "女仆",
+    "growth": {
+      "hp": "0",
+      "strength": "10",
+      "magic": "10",
+      "skill": "15",
+      "speed": "15",
+      "luck": "10",
+      "defense": "5",
+      "mdf": "10"
+    }
+  },
+  {
+    "name": "狼人",
+    "growth": {
+      "hp": "20",
+      "strength": "20",
+      "magic": "0",
+      "skill": "5",
+      "speed": "15",
+      "luck": "5",
+      "defense": "10",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "逐月狼人",
+    "growth": {
+      "hp": "20",
+      "strength": "20",
+      "magic": "0",
+      "skill": "5",
+      "speed": "15",
+      "luck": "5",
+      "defense": "10",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "武士",
+    "growth": {
+      "hp": "10",
+      "strength": "10",
+      "magic": "0",
+      "skill": "15",
+      "speed": "20",
+      "luck": "15",
+      "defense": "0",
+      "mdf": "10"
+    }
+  },
+  {
+    "name": "剑圣",
+    "growth": {
+      "hp": "10",
+      "strength": "10",
+      "magic": "5",
+      "skill": "15",
+      "speed": "20",
+      "luck": "15",
+      "defense": "0",
+      "mdf": "10"
+    }
+  },
+  {
+    "name": "村民",
+    "growth": {
+      "hp": "10",
+      "strength": "10",
+      "magic": "0",
+      "skill": "10",
+      "speed": "10",
+      "luck": "20",
+      "defense": "10",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "兵法者",
+    "growth": {
+      "hp": "20",
+      "strength": "15",
+      "magic": "0",
+      "skill": "10",
+      "speed": "10",
+      "luck": "10",
+      "defense": "10",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "药商人",
+    "growth": {
+      "hp": "20",
+      "strength": "20",
+      "magic": "0",
+      "skill": "10",
+      "speed": "10",
+      "luck": "5",
+      "defense": "10",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "大商人",
+    "growth": {
+      "hp": "20",
+      "strength": "20",
+      "magic": "0",
+      "skill": "10",
+      "speed": "5",
+      "luck": "15",
+      "defense": "10",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "忍者",
+    "growth": {
+      "hp": "5",
+      "strength": "5",
+      "magic": "0",
+      "skill": "20",
+      "speed": "20",
+      "luck": "0",
+      "defense": "5",
+      "mdf": "15"
+    }
+  },
+  {
+    "name": "上忍",
+    "growth": {
+      "hp": "5",
+      "strength": "5",
+      "magic": "0",
+      "skill": "20",
+      "speed": "20",
+      "luck": "0",
+      "defense": "5",
+      "mdf": "20"
+    }
+  },
+  {
+    "name": "傀儡师",
+    "growth": {
+      "hp": "10",
+      "strength": "10",
+      "magic": "0",
+      "skill": "15",
+      "speed": "10",
+      "luck": "5",
+      "defense": "5",
+      "mdf": "15"
+    }
+  },
+  {
+    "name": "弓使",
+    "growth": {
+      "hp": "10",
+      "strength": "15",
+      "magic": "0",
+      "skill": "15",
+      "speed": "15",
+      "luck": "5",
+      "defense": "10",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "弓圣",
+    "growth": {
+      "hp": "10",
+      "strength": "15",
+      "magic": "0",
+      "skill": "20",
+      "speed": "15",
+      "luck": "5",
+      "defense": "10",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "天马武者",
+    "growth": {
+      "hp": "0",
+      "strength": "10",
+      "magic": "0",
+      "skill": "10",
+      "speed": "15",
+      "luck": "20",
+      "defense": "0",
+      "mdf": "20"
+    }
+  },
+  {
+    "name": "圣天马武者",
+    "growth": {
+      "hp": "0",
+      "strength": "10",
+      "magic": "10",
+      "skill": "10",
+      "speed": "15",
+      "luck": "20",
+      "defense": "0",
+      "mdf": "20"
+    }
+  },
+  {
+    "name": "金鵄武者",
+    "growth": {
+      "hp": "0",
+      "strength": "5",
+      "magic": "0",
+      "skill": "15",
+      "speed": "15",
+      "luck": "15",
+      "defense": "0",
+      "mdf": "15"
+    }
+  },
+  {
+    "name": "鬼人",
+    "growth": {
+      "hp": "20",
+      "strength": "20",
+      "magic": "10",
+      "skill": "0",
+      "speed": "10",
+      "luck": "0",
+      "defense": "20",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "修罗",
+    "growth": {
+      "hp": "10",
+      "strength": "20",
+      "magic": "15",
+      "skill": "0",
+      "speed": "10",
+      "luck": "0",
+      "defense": "20",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "锻冶",
+    "growth": {
+      "hp": "20",
+      "strength": "15",
+      "magic": "0",
+      "skill": "15",
+      "speed": "10",
+      "luck": "5",
+      "defense": "15",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "枪术士",
+    "growth": {
+      "hp": "15",
+      "strength": "15",
+      "magic": "0",
+      "skill": "15",
+      "speed": "15",
+      "luck": "5",
+      "defense": "10",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "枪圣",
+    "growth": {
+      "hp": "15",
+      "strength": "15",
+      "magic": "0",
+      "skill": "15",
+      "speed": "15",
+      "luck": "5",
+      "defense": "10",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "婆娑罗",
+    "growth": {
+      "hp": "20",
+      "strength": "10",
+      "magic": "10",
+      "skill": "10",
+      "speed": "10",
+      "luck": "15",
+      "defense": "5",
+      "mdf": "10"
+    }
+  },
+  {
+    "name": "咒术师",
+    "growth": {
+      "hp": "0",
+      "strength": "5",
+      "magic": "15",
+      "skill": "10",
+      "speed": "15",
+      "luck": "5",
+      "defense": "0",
+      "mdf": "10"
+    }
+  },
+  {
+    "name": "阴阳师",
+    "growth": {
+      "hp": "0",
+      "strength": "0",
+      "magic": "20",
+      "skill": "10",
+      "speed": "15",
+      "luck": "0",
+      "defense": "0",
+      "mdf": "15"
+    }
+  },
+  {
+    "name": "修验者",
+    "growth": {
+      "hp": "0",
+      "strength": "5",
+      "magic": "10",
+      "skill": "10",
+      "speed": "15",
+      "luck": "15",
+      "defense": "0",
+      "mdf": "20"
+    }
+  },
+  {
+    "name": "山伏",
+    "growth": {
+      "hp": "10",
+      "strength": "15",
+      "magic": "5",
+      "skill": "5",
+      "speed": "15",
+      "luck": "15",
+      "defense": "10",
+      "mdf": "10"
+    }
+  },
+  {
+    "name": "巫女",
+    "growth": {
+      "hp": "0",
+      "strength": "5",
+      "magic": "10",
+      "skill": "10",
+      "speed": "15",
+      "luck": "15",
+      "defense": "0",
+      "mdf": "20"
+    }
+  },
+  {
+    "name": "战巫女",
+    "growth": {
+      "hp": "10",
+      "strength": "10",
+      "magic": "10",
+      "skill": "5",
+      "speed": "15",
+      "luck": "15",
+      "defense": "0",
+      "mdf": "20"
+    }
+  },
+  {
+    "name": "妖狐",
+    "growth": {
+      "hp": "10",
+      "strength": "10",
+      "magic": "0",
+      "skill": "15",
+      "speed": "20",
+      "luck": "10",
+      "defense": "0",
+      "mdf": "20"
+    }
+  },
+  {
+    "name": "九尾狐",
+    "growth": {
+      "hp": "10",
+      "strength": "10",
+      "magic": "0",
+      "skill": "15",
+      "speed": "20",
+      "luck": "10",
+      "defense": "0",
+      "mdf": "20"
+    }
+  },
+  {
+    "name": "黑暗隼骑士",
+    "growth": {
+      "hp": "0",
+      "strength": "10",
+      "magic": "15",
+      "skill": "5",
+      "speed": "15",
+      "luck": "15",
+      "defense": "0",
+      "mdf": "20"
+    }
+  },
+  {
+    "name": "魔战士",
+    "growth": {
+      "hp": "15",
+      "strength": "15",
+      "magic": "5",
+      "skill": "5",
+      "speed": "15",
+      "luck": "0",
+      "defense": "5",
+      "mdf": "20"
+    }
+  },
+  {
+    "name": "炮车",
+    "growth": {
+      "hp": "5",
+      "strength": "25",
+      "magic": "0",
+      "skill": "15",
+      "speed": "0",
+      "luck": "10",
+      "defense": "5",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "魔女",
+    "growth": {
+      "hp": "5",
+      "strength": "0",
+      "magic": "25",
+      "skill": "5",
+      "speed": "20",
+      "luck": "5",
+      "defense": "0",
+      "mdf": "10"
+    }
+  },
+  {
+    "name": "星之王",
+    "growth": {
+      "hp": "15",
+      "strength": "10",
+      "magic": "0",
+      "skill": "20",
+      "speed": "10",
+      "luck": "25",
+      "defense": "5",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "神将",
+    "growth": {
+      "hp": "20",
+      "strength": "20",
+      "magic": "0",
+      "skill": "5",
+      "speed": "5",
+      "luck": "10",
+      "defense": "15",
+      "mdf": "0"
+    }
+  },
+  {
+    "name": "大领主",
+    "growth": {
+      "hp": "15",
+      "strength": "15",
+      "magic": "0",
+      "skill": "10",
+      "speed": "10",
+      "luck": "15",
+      "defense": "10",
+      "mdf": "5"
+    }
+  },
+  {
+    "name": "神军师",
+    "growth": {
+      "hp": "10",
+      "strength": "15",
+      "magic": "15",
+      "skill": "15",
+      "speed": "5",
+      "luck": "0",
+      "defense": "5",
+      "mdf": "15"
+    }
+  }
+]
